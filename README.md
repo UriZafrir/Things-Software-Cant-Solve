@@ -1,4 +1,4 @@
-# Things Software Cant Yet Solve Or Is Very Hard
+# Things Software Cant Solve Or Is Very Hard
 
   
 
