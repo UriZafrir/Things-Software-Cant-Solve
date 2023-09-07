@@ -14,9 +14,11 @@
 * Air pollution
 * Water Pollution
 * Land Pollution
-### Human Micronutritient Deficiency
+### Micronutritient Deficiency
 * [Our crops are not as nutritious as they used to be](https://www.nationalgeographic.co.uk/environment-and-conservation/2022/05/fruits-and-vegetables-are-less-nutritious-than-they-used-to-be)
+* [Chemicals and overproduction cause soil to miss micronutrients](https://www.intechopen.com/chapters/74460)
 * [More than 2 billion people in the world today are estimated to be deficient in key vitamins and minerals](https://www.who.int/publications/m/item/WHO-WFP-UNICEF-statement-micronutrients-deficiencies-emergency#:~:text=Deficiencies%20of%20micronutrients%20are%20a,%2C%20iodine%2C%20iron%20and%20zinc.)
+* [92% of the U.S. population has vitamin deficiency](https://thebiostation.com/bioblog/do-you-have-vitamin-deficiency/)
 ### Global Hunger
 ### Gender Inequality
 ### Absolute Poverty
