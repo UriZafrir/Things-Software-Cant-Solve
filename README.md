@@ -1,4 +1,4 @@
-# Things Software Cant Yet Solve
+# Things Software Can't Solve
 
   
 ### Water contamination
