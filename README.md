@@ -16,7 +16,7 @@
 * Land Pollution
 ### Micronutritient Deficiency
 * [Chemicals and overproduction cause soil to miss micronutrients](https://www.intechopen.com/chapters/74460)
-    - [Book -Micronutrient Deficiencies in Global Crop Production (2008)](./PDFs/Brian%20J.%20Alloway%20(auth.),%20Brian%20J.%20Alloway%20(eds.)%20-%20Micronutrient%20Deficiencies%20in%20Global%20Crop%20Production-Springer%20Netherlands%20(2008).pdf)
+    - [Book - Micronutrient Deficiencies in Global Crop Production (2008)](./PDFs/Brian%20J.%20Alloway%20(auth.),%20Brian%20J.%20Alloway%20(eds.)%20-%20Micronutrient%20Deficiencies%20in%20Global%20Crop%20Production-Springer%20Netherlands%20(2008).pdf)
     - [Report - Scarcity of micronutrients in soil, feed, food, and mineral reserves - Urgency and policy options - Report and advisory memorandum for the Dutch Minister of Agriculture and Foreign Trade (2012)](./PDFs/scarcity_of_micronutrients.pdf)
 * [Our crops are not as nutritious as they used to be](https://www.nationalgeographic.co.uk/environment-and-conservation/2022/05/fruits-and-vegetables-are-less-nutritious-than-they-used-to-be)
 * [More than 2 billion people in the world today are estimated to be deficient in key vitamins and minerals](https://www.who.int/publications/m/item/WHO-WFP-UNICEF-statement-micronutrients-deficiencies-emergency#:~:text=Deficiencies%20of%20micronutrients%20are%20a,%2C%20iodine%2C%20iron%20and%20zinc.)
