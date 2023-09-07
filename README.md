@@ -14,13 +14,18 @@
 * Air pollution
 * Water Pollution
 * Land Pollution
+### Human Micronutritient Deficiency
+* [Our crops are not as nutritious as they used to be](https://www.nationalgeographic.co.uk/environment-and-conservation/2022/05/fruits-and-vegetables-are-less-nutritious-than-they-used-to-be)
+* [More than 2 billion people in the world today are estimated to be deficient in key vitamins and minerals](https://www.who.int/publications/m/item/WHO-WFP-UNICEF-statement-micronutrients-deficiencies-emergency#:~:text=Deficiencies%20of%20micronutrients%20are%20a,%2C%20iodine%2C%20iron%20and%20zinc.)
 ### Global Hunger
 ### Gender Inequality
 ### Absolute Poverty
 ### Global Warming
 ### Wars
+* People have an intrinsic need for power and that is not going to change anytime soon.
 ### Overpopulation
 ### Wealth Inequality
+* Wealth wants to make more wealth. This is why rich countries are getting more investments than poor countries.
 ### Human Rights Violations
-### Disappearance of Biodiversity
+### Biodiversity Loss
 
