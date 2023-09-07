@@ -8,7 +8,7 @@
 * 80% of wastewater is discharged into the environment without being processed or reused
 ### Non-Renewable Resources Will Eventually Run Out
 * Fossil Fuels - petroleum, coal, natural gas
-* Water ?
+* [Water - Global fresh water demand will outstrip supply by 40% by 2030](https://www.theguardian.com/environment/2023/mar/17/global-fresh-water-demand-outstrip-supply-by-2030)
 * [Phospherous, used for crops is likely to run out in 80 years](https://web.mit.edu/12.000/www/m2016/finalwebsite/solutions/phosphorus.html#:~:text=At%20current%20consumption%20levels%2C%20we,of%20it%20in%20crop%20fertilizers.)
 ### [Pollution](https://www.worldbank.org/en/topic/pollution)
 * Air pollution
