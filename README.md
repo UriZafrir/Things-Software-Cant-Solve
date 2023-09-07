@@ -12,8 +12,11 @@
 * [Phospherous, used for crops is likely to run out in 80 years](https://web.mit.edu/12.000/www/m2016/finalwebsite/solutions/phosphorus.html#:~:text=At%20current%20consumption%20levels%2C%20we,of%20it%20in%20crop%20fertilizers.)
 ### [Pollution](https://www.worldbank.org/en/topic/pollution)
 * Air pollution
+    - [Almost all of the global population (99%) are exposed to air pollution levels that put them at increased risk for diseases including heart disease, stroke, chronic obstructive pulmonary disease, cancer and pneumonia](https://www.who.int/data/gho/data/themes/air-pollution#:~:text=Almost%20all%20of%20the%20global,pulmonary%20disease%2C%20cancer%20and%20pneumonia.)
 * Water Pollution
+    - [Globally, at least 2 billion people use a drinking water source contaminated with faeces. Microbial contamination of drinking-water as a result of contamination with faeces poses the greatest risk to drinking-water safety](https://www.who.int/news-room/fact-sheets/detail/drinking-water#:~:text=Contaminated%20water%20and%20poor%20sanitation,individuals%20to%20preventable%20health%20risks.)    
 * Land Pollution
+    - [Third of Earth's soil is acutely degraded due to agriculture](https://www.theguardian.com/environment/2017/sep/12/third-of-earths-soil-acutely-degraded-due-to-agriculture-study)
 ### Micronutritient Deficiency
 * [Chemicals and overproduction cause soil to miss micronutrients](https://www.intechopen.com/chapters/74460)
     - [Book - Micronutrient Deficiencies in Global Crop Production (2008)](./PDFs/Brian%20J.%20Alloway%20(auth.),%20Brian%20J.%20Alloway%20(eds.)%20-%20Micronutrient%20Deficiencies%20in%20Global%20Crop%20Production-Springer%20Netherlands%20(2008).pdf)
