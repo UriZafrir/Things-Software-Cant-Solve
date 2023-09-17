@@ -36,4 +36,6 @@
 * [Money wants to make more money. This is why rich countries are getting more investments than poor countries.](https://www.swissinfo.ch/eng/politics/global-capital-flows--how-poor-countries-finance-the-rich/47007494)
 ### Human Rights Violations
 ### Biodiversity Loss
+### Danger Zone of Planetary Boundary
+* [Humanity deep in the danger zone of planetary boundaries: Study](https://phys.org/news/2023-09-humanity-deep-danger-zone-planetary.html)
 
