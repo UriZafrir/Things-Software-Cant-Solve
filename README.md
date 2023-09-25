@@ -1,4 +1,4 @@
-# Things Software Can't Solve
+# Things Software Can't Yet Solve
 
 ## Planetary Boundaries
 * [2009 article defining planetary boundaries and indicating 3 of the 9 boundaries have been crossed](https://www.nature.com/articles/461472a)
