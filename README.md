@@ -6,6 +6,9 @@
 * Due to pollution, poverty, and inadequate resource management, around 2.1 billion people lack access to safe drinking water.
 * Annually, 297,000 children under the age of five die from diarrheal infections caused by poor sanitation, hygiene, or contaminated drinking water.
 * 80% of wastewater is discharged into the environment without being processed or reused
+* [Agricultural Nitrogen Pollution](https://cen.acs.org/articles/95/i16/nitrogen-clean-act-farmlands.html) 
+* [Facts about Nutrient Pollution](https://www.epa.gov/sites/default/files/2015-03/documents/facts_about_nutrient_pollution_what_is_hypoxia.pdf)
+
 ### Non-Renewable Resources Will Eventually Run Out
 * Fossil Fuels - petroleum, coal, natural gas
 * [Water - Global fresh water demand will outstrip supply by 40% by 2030](https://www.theguardian.com/environment/2023/mar/17/global-fresh-water-demand-outstrip-supply-by-2030)
