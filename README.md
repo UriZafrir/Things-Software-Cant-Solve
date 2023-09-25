@@ -4,6 +4,7 @@
 * [Planetary Boundaries: Exploring the safe operating space for humanity](./PDFs/Planetary%20Boundaries-Exploring%20the%20safe%20operating%20space%20for%20humanity.pdf)
 * [3 of the 9 Planetary Boundaries have been crossed](https://www.nature.com/articles/461472a)
 * [Earth beyond six of nine planetary boundaries - is now well outside of the safe operating space for humanity](./PDFs/Earth%20beyond%20six%20of%20nine%20planetary%20boundaries.pdf)
+![Planetary Boundaries Chart](https://github.com/UriZafrir/Things-Software-Cant-Yet-Solve/assets/35652384/a5ed5faa-ed7a-44fb-a924-1adf6562a3da)
 
 ### Water contamination
 * [2.1 billion people lack safe drinking water at home, more than twice as many lack safe sanitation](https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation)
@@ -45,4 +46,6 @@
 ### Biodiversity Loss
 ### Danger Zone of Planetary Boundary
 * [Humanity deep in the danger zone of planetary boundaries: Study](https://phys.org/news/2023-09-humanity-deep-danger-zone-planetary.html)
+
+
 
