@@ -1,6 +1,9 @@
-# Things Software Can't Yet Solve
+# Things Software Can't Solve
 
-  
+## Planetary Boundaries
+* [2009 article defining planetary boundaries and indicating 3 of the 9 boundaries have been crossed](https://www.nature.com/articles/461472a)
+* [Earth beyond six of nine planetary boundaries](./PDFs/Earth%20beyond%20six%20of%20nine%20planetary%20boundaries.pdf)
+
 ### Water contamination
 * [2.1 billion people lack safe drinking water at home, more than twice as many lack safe sanitation](https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation)
 * Due to pollution, poverty, and inadequate resource management, around 2.1 billion people lack access to safe drinking water.
