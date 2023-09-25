@@ -1,7 +1,8 @@
 # Things Software Can't Yet Solve
 
 ## Planetary Boundaries
-* [2009 article defining planetary boundaries and indicating 3 of the 9 boundaries have been crossed](https://www.nature.com/articles/461472a)
+* [Planetary Boundaries: Exploring the safe operating space for humanity](./PDFs/Planetary%20Boundaries-Exploring%20the%20safe%20operating%20space%20for%20humanity.pdf)
+* [3 of the 9 Planetary Boundaries have been crossed](https://www.nature.com/articles/461472a)
 * [Earth beyond six of nine planetary boundaries - is now well outside of the safe operating space for humanity](./PDFs/Earth%20beyond%20six%20of%20nine%20planetary%20boundaries.pdf)
 
 ### Water contamination
