@@ -37,6 +37,7 @@
 * [ Women still have only three quarters of the legal rights afforded to men , around 2.4 billion women of working age are not afforded equal economic opportunity and 178 countries maintain legal barriers that prevent their full economic participation](https://www.worldbank.org/en/news/press-release/2022/03/01/nearly-2-4-billion-women-globally-don-t-have-same-economic-rights-as-men)
 ### Absolute Poverty
 ### Global Warming
+* [Analysis by the Guardian and Corporate Accountability found that 39 of the 50 carbon emission offset projects were categorised as “likely junk or worthless” due to one or more “fundamental failing"](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/?cf-view)
 ### Wars
 * People have an intrinsic need for power and that is not going to change anytime soon.
 ### Overpopulation
