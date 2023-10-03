@@ -11,14 +11,14 @@
 
 ### Water contamination
 * [2.1 billion people lack safe drinking water at home, more than twice as many lack safe sanitation](https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation)
-* Due to pollution, poverty, and inadequate resource management, around 2.1 billion people lack access to safe drinking water.
-* Annually, 297,000 children under the age of five die from diarrheal infections caused by poor sanitation, hygiene, or contaminated drinking water.
-* 80% of wastewater is discharged into the environment without being processed or reused
+* [Due to pollution, poverty, and inadequate resource management, around 2.1 billion people lack access to safe drinking water](https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation#:~:text=lack%20safe%20sanitation-,2.1%20billion%20people%20lack%20safe%20drinking%20water%20at%20home%2C%20more,as%20many%20lack%20safe%20sanitation&text=Some%203%20in%2010%20people,report%20by%20WHO%20and%20UNICEF.)
+* [Annually, 297,000 children under the age of five die from diarrheal infections caused by poor sanitation, hygiene, or contaminated drinking water](https://www.unicef.org/turkiye/en/node/2296)
+* [80% of wastewater is discharged into the environment without being processed or reused (UN report)](https://www.unwater.org/sites/default/files/app/uploads/2018/10/WaterFacts_water_and_watewater_sep2018.pdf)
 * [Agricultural Nitrogen Pollution](https://cen.acs.org/articles/95/i16/nitrogen-clean-act-farmlands.html) 
 * [Facts about Nutrient Pollution](https://www.epa.gov/sites/default/files/2015-03/documents/facts_about_nutrient_pollution_what_is_hypoxia.pdf)
 
 ### Non-Renewable Resources Will Eventually Run Out
-* Fossil Fuels - petroleum, coal, natural gas
+* [Fossil Fuels estimations -  Oil: 51 years, Coal: 114 years, Natural gas: 53 years](https://group.met.com/en/mind-the-fyouture/mindthefyouture/when-will-fossil-fuels-run-out#:~:text=Conclusion%3A%20how%20long%20will%20fossil,our%20reserves%20can%20speed%20up.)
 * [Water - Global fresh water demand will outstrip supply by 40% by 2030](https://www.theguardian.com/environment/2023/mar/17/global-fresh-water-demand-outstrip-supply-by-2030)
 * [Phospherous, used for crops is likely to run out in 80 years](https://web.mit.edu/12.000/www/m2016/finalwebsite/solutions/phosphorus.html#:~:text=At%20current%20consumption%20levels%2C%20we,of%20it%20in%20crop%20fertilizers.)
 ### [Pollution](https://www.worldbank.org/en/topic/pollution)
@@ -44,6 +44,7 @@
 ### Wars
 * People have an intrinsic need for power and that is not going to change anytime soon.
 ### Overpopulation
+![Alt text](image.png)
 ### Wealth Inequality 
 * [why rich countries are getting more investments than poor countries, exacerbating wealth inequality](https://www.swissinfo.ch/eng/politics/global-capital-flows--how-poor-countries-finance-the-rich/47007494)
 ### Human Rights Violations
