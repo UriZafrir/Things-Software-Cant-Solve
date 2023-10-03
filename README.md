@@ -36,9 +36,11 @@
 * [More than 2 billion people in the world today are estimated to be deficient in key vitamins and minerals](https://www.who.int/publications/m/item/WHO-WFP-UNICEF-statement-micronutrients-deficiencies-emergency#:~:text=Deficiencies%20of%20micronutrients%20are%20a,%2C%20iodine%2C%20iron%20and%20zinc.)
 * [Example - 92% of the U.S. population has vitamin deficiency](https://thebiostation.com/bioblog/do-you-have-vitamin-deficiency/)
 ### Global Hunger
+* [One in ten people regularly goes to bed hungry.](https://www.worldvision.org/hunger-news-stories/world-hunger-facts#:~:text=As%20many%20as%20828%20million,to%20vulnerable%20populations%20and%20countries.)
 ### Gender Inequality
 * [ Women still have only three quarters of the legal rights afforded to men , around 2.4 billion women of working age are not afforded equal economic opportunity and 178 countries maintain legal barriers that prevent their full economic participation](https://www.worldbank.org/en/news/press-release/2022/03/01/nearly-2-4-billion-women-globally-don-t-have-same-economic-rights-as-men)
 ### Absolute Poverty
+* [almost one in ten people are living in absolute poverty, living on less than $2.15 per person per day](https://www.worldbank.org/en/topic/poverty/overview)
 ### Global Warming
 * [Analysis by the Guardian and Corporate Accountability found that 39 of the 50 carbon emission offset projects were categorised as “likely junk or worthless” due to one or more “fundamental failing"](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/?cf-view)
 ### Wars
@@ -52,9 +54,11 @@
 * [Humanity is using nature 1.7 times faster than our planet’s biocapacity can regenerate](https://www.overshootday.org/how-many-earths-or-countries-do-we-need/)
 ### Wealth Inequality 
 * [why rich countries are getting more investments than poor countries, exacerbating wealth inequality](https://www.swissinfo.ch/eng/politics/global-capital-flows--how-poor-countries-finance-the-rich/47007494)
-### Human Rights Violations
+
 ### Biodiversity Loss
 * [Earth has lost half of its wildlife in the past 40 years, says WWF](https://www.theguardian.com/environment/2014/sep/29/earth-lost-50-wildlife-in-40-years-wwf)
+### Illiteracy
+* [One in seven adults is illiterate, 63% of them are women.](https://lukukeskus.fi/en/10-facts-about-global-literacy/#_ftn1)
 ### Danger Zone of Planetary Boundary
 * [Humanity deep in the danger zone of planetary boundaries: Study](https://phys.org/news/2023-09-humanity-deep-danger-zone-planetary.html)
 
