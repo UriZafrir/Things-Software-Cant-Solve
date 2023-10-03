@@ -7,7 +7,7 @@
 ![Planetary Boundaries Chart](https://github.com/UriZafrir/Things-Software-Cant-Yet-Solve/assets/35652384/a5ed5faa-ed7a-44fb-a924-1adf6562a3da)
 
 ### Pesticides
-* [Pesticides linked to most major human diseases: birth defects, body burden, brain and nervous system disorders, cancer, diabetes, endocrine disruption, immune system disorders, learning/developmental sexual and reproductive dysfunction](https://www.beyondpesticides.org/resources/pesticide-induced-diseases-database/overview)
+* [Pesticides linked to most major human diseases: asthma and respiratory effects, birth defects, body burden, brain and nervous system disorders (Alzheimer's, Parkinsons, dementia), cancer, diabetes, endocrine disruption, immune system disorders, learning/developmental (ADHD, Autism), sexual and reproductive dysfunction](https://www.beyondpesticides.org/resources/pesticide-induced-diseases-database/overview)
 
 ### Water contamination
 * [2.1 billion people lack safe drinking water at home, more than twice as many lack safe sanitation](https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation)
