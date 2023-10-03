@@ -6,6 +6,9 @@
 * [Earth beyond six of nine planetary boundaries - is now well outside of the safe operating space for humanity](./PDFs/Earth%20beyond%20six%20of%20nine%20planetary%20boundaries.pdf)
 ![Planetary Boundaries Chart](https://github.com/UriZafrir/Things-Software-Cant-Yet-Solve/assets/35652384/a5ed5faa-ed7a-44fb-a924-1adf6562a3da)
 
+### Pesticides
+* [Pesticides linked to moth major human diseases: birth defects, body burden, brain and nervous system disorders, cancer, diabetes, endocrine disruption, immune system disorders, learning/developmental sexual and reproductive dysfunction](https://www.beyondpesticides.org/resources/pesticide-induced-diseases-database/overview)
+
 ### Water contamination
 * [2.1 billion people lack safe drinking water at home, more than twice as many lack safe sanitation](https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation)
 * Due to pollution, poverty, and inadequate resource management, around 2.1 billion people lack access to safe drinking water.
