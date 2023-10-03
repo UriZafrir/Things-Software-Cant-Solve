@@ -44,11 +44,16 @@
 ### Wars
 * People have an intrinsic need for power and that is not going to change anytime soon.
 ### Overpopulation
+* [Ideal population size is 1.5-2 billion. We're at 8.](https://www.bbc.com/future/article/20220905-is-the-world-overpopulated)
+
 ![Alt text](image.png)
+### Overconsumption
+* [Humanity is using nature 1.7 times faster than our planet’s biocapacity can regenerate](https://www.overshootday.org/how-many-earths-or-countries-do-we-need/)
 ### Wealth Inequality 
 * [why rich countries are getting more investments than poor countries, exacerbating wealth inequality](https://www.swissinfo.ch/eng/politics/global-capital-flows--how-poor-countries-finance-the-rich/47007494)
 ### Human Rights Violations
 ### Biodiversity Loss
+* [Earth has lost half of its wildlife in the past 40 years, says WWF](https://www.theguardian.com/environment/2014/sep/29/earth-lost-50-wildlife-in-40-years-wwf)
 ### Danger Zone of Planetary Boundary
 * [Humanity deep in the danger zone of planetary boundaries: Study](https://phys.org/news/2023-09-humanity-deep-danger-zone-planetary.html)
 
