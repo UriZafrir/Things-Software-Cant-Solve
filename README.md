@@ -44,8 +44,8 @@
 ### Wars
 * People have an intrinsic need for power and that is not going to change anytime soon.
 ### Overpopulation
-### Wealth Inequality
-* [Money wants to make more money. This is why rich countries are getting more investments than poor countries.](https://www.swissinfo.ch/eng/politics/global-capital-flows--how-poor-countries-finance-the-rich/47007494)
+### Wealth Inequality 
+* [why rich countries are getting more investments than poor countries, exacerbating wealth inequality](https://www.swissinfo.ch/eng/politics/global-capital-flows--how-poor-countries-finance-the-rich/47007494)
 ### Human Rights Violations
 ### Biodiversity Loss
 ### Danger Zone of Planetary Boundary
