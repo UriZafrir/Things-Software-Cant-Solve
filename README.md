@@ -46,7 +46,8 @@
 ### Overpopulation
 * [Ideal population size is 1.5-2 billion. We're at 8.](https://www.bbc.com/future/article/20220905-is-the-world-overpopulated)
 
-![Alt text](image.png)
+![Screenshot 2023-10-03 at 22 23 14](https://github.com/UriZafrir/Things-Software-Cant-Yet-Solve/assets/35652384/3da765d7-0d4a-404c-af0f-7b54b551b831)
+
 ### Overconsumption
 * [Humanity is using nature 1.7 times faster than our planet’s biocapacity can regenerate](https://www.overshootday.org/how-many-earths-or-countries-do-we-need/)
 ### Wealth Inequality 
